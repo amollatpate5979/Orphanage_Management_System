@@ -116,13 +116,9 @@ Orphanage_Management_System
 
 ---
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
-
----
 
 ## Contact
 For any queries or contributions, contact:
 - **Name:** [amol latpate]
 - **Email:** [amollatpate5979@gmail.com.com](mailto:amollatpate5979@gmail.com.com)
-- **GitHub:** [your-amollatpate5979](https://github.com/Amollatpate5979)
+- **GitHub:** [amollatpate5979](https://github.com/Amollatpate5979)
